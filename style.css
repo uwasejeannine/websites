@@ -1,0 +1,69 @@
+.Trevor {
+    text-align: center;
+    font-size: 70px;
+    color: rgb(255, 255, 0);
+}
+
+.img img {
+    float: left;
+    width: 400px;
+    padding: 100px;
+    height: 600px;
+    top: 50px;
+    bottom: 50px;
+}
+
+.img {
+    background-color: rgb(55, 55, 190);
+}
+
+.Trevor1 {
+    color: white;
+    font-size: 20px;
+}
+
+.ME img {
+    float: left;
+    width: 450px;
+    padding: 100px;
+    height: 700px;
+    top: 50px;
+    bottom: 50px;
+}
+
+.boutme {
+    font-size: 50px;
+    bottom: 70px;
+    color: yellow;
+}
+
+.pr {
+    font-size: 20px;
+    color: white;
+}
+
+.ME {
+    background-color: rgb(55, 55, 185);
+}
+
+.pra {
+    font-size: 20px;
+    color: white;
+}
+
+.Trevor2 {
+    color: white;
+    font-size: 20px;
+}
+
+.ME a {
+    color: yellow;
+    width: 40px;
+    margin: 20px;
+}
+
+.img a {
+    color: yellow;
+    width: 40px;
+    margin: 20px;
+}

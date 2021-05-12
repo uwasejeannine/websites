@@ -1,0 +1,41 @@
+.body {
+    background-image: url(backgroung.jpg);
+    text-align: center;
+    background-size: cover;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(68, 68, 190);
+}
+
+.body a {
+    text-align: right;
+    color: gold;
+}
+
+.body ul a {
+    float: right;
+    padding: 30px;
+}
+
+.body h1 {
+    color: wheat;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+.body h2 {
+    color: wheat;
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.read {
+    text-align: center;
+    color: black;
+}
